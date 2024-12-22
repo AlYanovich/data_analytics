@@ -1,6 +1,5 @@
-# data_analytics
-my data analytics pet progects to test my skills and get more experience with jupyter notebook, git
+# My data analytics \ data science projects
 
-1)First project is analysis of "student_lifestyle_dataset.csv" from kagle
-ill try to find out which columns influence the most to GPA and stress level
-firstly just some vis with matplotlib.pyplot and seaborn after maybe build some data model
+##my data analytics pet progects to test my skills and get more experience with jupyter notebook, git, etc
+
+1)First project is analysis of "student_lifestyle_dataset.csv" from kagle. Some visualisations of students lifestyle with matplotlib and seaborn, correlaton between daily routine and Stress level/GPA (maybe will try to predict Stress level with sklearn machine learning models)
