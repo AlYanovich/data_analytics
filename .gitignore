@@ -1,3 +1,4 @@
 # ignore .jupyter_chechpoints
 .*
 .ipynb_checkpoints
+*.csv
